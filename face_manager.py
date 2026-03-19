@@ -1,1 +1,1 @@
-print("Face manager initialized.")
+print("Face manager initialized navoo .")
